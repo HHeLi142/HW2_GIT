@@ -17,3 +17,6 @@ class LinearRegression():
 
     def adam(self):
         pass
+
+    def new_optimizer(self):
+        pass
