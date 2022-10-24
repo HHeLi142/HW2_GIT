@@ -7,6 +7,7 @@ class nn():
     
     def fit(self, X_train, y_train):
         self.x = X_train
+        self.y = y_train
 
     def predict(self):
         pass
