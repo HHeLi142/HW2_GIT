@@ -24,4 +24,5 @@ class cnn():
         pass
 
 class rnn():
-    pass
+    def __init__(self, X_train):
+        self.X = X_train
