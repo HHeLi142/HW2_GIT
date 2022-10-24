@@ -24,5 +24,5 @@ class cnn():
         pass
 
 class rnn():
-    def __init__(self, X_train):
-        self.X = X_train
+    def __init__(self, optimizer):
+        pass
