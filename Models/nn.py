@@ -5,8 +5,8 @@ class nn():
         self.w = np.array()
         self.x = np.array()
     
-    def fit(self):
-        pass
+    def fit(self, X_train, y_train):
+        self.x = X_train
 
     def predict(self):
         pass
