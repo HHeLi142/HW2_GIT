@@ -22,3 +22,6 @@ class cnn():
 
     def predict(self):
         pass
+
+class rnn():
+    pass
