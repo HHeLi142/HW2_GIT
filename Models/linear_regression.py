@@ -14,3 +14,6 @@ class LinearRegression():
 
     def predict(self, X_test):
         pass
+
+    def adam(self):
+        pass
