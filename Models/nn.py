@@ -22,3 +22,7 @@ class cnn():
 
     def predict(self):
         pass
+
+class rnn():
+    def __init__(self, optimizer):
+        self.opt = optimizer
